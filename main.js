@@ -152,6 +152,7 @@ function card(productСards) {
         cardFooterJules.style.marginLeft = "10px";
 
         console.log(wrapper);
+        alert("Я оцениваю свою работу на 90 баллов");
     })
     a.innerHTML = arr;
 }
